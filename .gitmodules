@@ -1,0 +1,3 @@
+[submodule "submodules-child"]
+	path = submodules-child
+	url = https://github.com/NirmalyaNg/submodules-child
